@@ -1,0 +1,14 @@
+0 1 0 0
+1 1 0 1
+2 1 1 5
+3 1 0 0
+
+
+
+/*
+ledno: 0,1,2,3
+ischage: 0-unchage, 1-change
+color: 0-green, 1-red
+freq:0-0.5, 1-1hz, 2-2hz, 4-4hz, 5-0.25hz
+*/
+
